@@ -1,5 +1,9 @@
 # Demo-Create-ChatGPT-Powered-iOS-Apps
 
+### Working demo
+![image3](https://github.com/RajaSoftwareLabs/Demo-Create-ChatGPT-Powered-iOS-Apps/assets/136612143/8dfac624-ae0a-4636-b71d-4b70a7783b28)
+
+
 ### Mobile - Server Communication Architecture
 
 We could directly consume the OpenAI API in our apps, but that may not be an ideal design decision for following reasons:
